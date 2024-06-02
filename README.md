@@ -6,7 +6,7 @@ Technical Specifications:
 
 Programming Language: Python\
 Libraries:\
-Scikit-learn (https://scikit-learn.org/0.21/documentation)\
-Pandas (https://pandas.pydata.org/)\
-NumPy (https://numpy.org/)\
+Scikit-learn (https://scikit-learn.org/0.21/documentation) \
+Pandas (https://pandas.pydata.org/) \
+NumPy (https://numpy.org/) \
 Matplotlib (optional for visualization) (https://matplotlib.org/)
