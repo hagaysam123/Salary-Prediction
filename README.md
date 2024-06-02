@@ -4,9 +4,9 @@ This project analyzes factors influencing the starting salaries of engineering g
 
 Technical Specifications:
 
-Programming Language: Python
-Libraries:
-Scikit-learn (https://scikit-learn.org/0.21/documentation)
-Pandas (https://pandas.pydata.org/)
-NumPy (https://numpy.org/)
-Matplotlib (optional for visualization) (https://matplotlib.org/)
+Programming Language: Python < br / >
+Libraries: < br / >
+Scikit-learn (https://scikit-learn.org/0.21/documentation) < br / >
+Pandas (https://pandas.pydata.org/) < br / >
+NumPy (https://numpy.org/) < br / >
+Matplotlib (optional for visualization) (https://matplotlib.org/) < br / >
